@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Eric Sund
+bio: Computer Science & Mathematics Student at Simon Fraser University - Grad Dec 2021
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -13,8 +13,8 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: local
+resume-url: assets/Resume.pdf
 
 url: https://sergiokopplin.github.io/indigo
 # your url: https://USERNAME.github.io
@@ -34,37 +34,31 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+twitter: epsund
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: epsund
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: ericsund
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: epsund@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Eric Sund
+    bio: Copmuter Science and Math Student at SFU
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

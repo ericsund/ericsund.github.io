@@ -2,45 +2,78 @@
 title: About
 layout: page
 ---
+
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Hey there! 👋 I'm Eric Sund - a Computer Science and Mathematics major set to graduate this year (2021).
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I enjoy app development 💻 and lower-level embedded systems, operating systems, etc.  I've also got a knack for numerical methods 🔢 and scientific computing 🧪.  In my time at SFU, I tutored first-year CS students 👨‍🏫, and gained experience in several internships.  I also helped run dozens of tech events including [HackerX](https://hackerx.org/).
 
-<h2>Skills</h2>
+Apart from math and programming, I'm into camping ⛺, hiking 🎒, and listening to indie rock 🎵!
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+This summer I'm working at [Akamai](https://www.akamai.com/) as DevOps Engineer Intern.  Shoot me an [email](mailto:epsund@gmail.com) if you'd like to chat!
 
-<h2>Projects</h2>
+## Languages I know
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+* C/C++
+* Java
+* Python
+* Node, Typescript, React
+* PHP
+
+## Other things I know
+* Linux/UNIX kernel devleopment
+* Docker
+* Terraform
+* Ansible
+* Jenkins
+* AWS (Cloud practitioner certified!)
+* Git
+* Rails
+* SQL
+
+## Places I've worked
+* **Akamai** - DevOps Engineer Intern
+	* May 2021 - August 2021
+* **Hootsuite** - Production Operations (DevOps) Engineer Intern
+	* January 2019 - April 2019
+* **Beanworks Solutions** - Software Developer Intern
+	* May 2018 - August 2018
+* **Thinkific** - Full Stack Developer, QA, Support Intern
+	* April 2017 - March 2018
+* **Teradici** - QA Developer Intern
+	* May 2016 - August 2016
+
+## Some courses I've taken
+
+* CMPT 433 Embedded Systems
+* MATH 467 Dynamical Systems
+* CMPT 412 Computer Vision
+* CMPT 409 Quantum Computing
+* MACM 416 Numerical Analysis II
+* MACM 316 Numerical Analysis I
+* CMPT 307 Data Structures & Algorithms
+* CMPT 371 Networking
+* CMPT 354 Database Systems
+* CMPT 300 Operating Systems
+* MATH 342 Elementary Number Theory
+* MATH 340 Ring and Field Theory
+* MATH 304 Applied Group Theory and Permutations
+* MATH 310 Ordinary Differential Equations
+* MATH 308 Linear Programming
+* CMPT 295 Computer Architecture
+* CMPT 225 Data Structures & Programming
+* CMPT 213 Object Oriented Programming with Java
+* MATH 242 Real Analysis I
+* MATH 232 Applied Linear Algebra
+* MATH 251 Calculus III
+* STAT 270 Probability & Statistics
+* MACM 204 Computational Linear Algebra (MATLAB)
+* MACM 203 Computational Calculus (MAPLE)
+* MACM 201 Discrete Mathematics II
+* MATH 152 Calculus II
+* MATH 150 Calculus I
+* MACM 101 Discrete Mathematics I
+* CMPT 127 C/C++ Computing Laboratory
+* CMPT 125 Intro to Computer Science II
+* CMPT 120 Intro to Computer Science I

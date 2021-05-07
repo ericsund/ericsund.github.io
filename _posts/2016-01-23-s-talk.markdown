@@ -1,0 +1,48 @@
+---
+title: "💬 S-talk: A chat app from scratch"
+layout: post
+date: 2021-04-1 22:10
+tag: C
+image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+category: project
+author: johndoe
+externalLink: false
+---
+
+S-talk lets two people instant message each other over the local area network.  The beauty of this is the same single binary can be run by two different people on their own computers.  It was one of the hardest projects I've worked on, because debugging a multithreaded application with a bunch of edge cases is not easy.
+
+I had a bit of multithreading going on:
+
+* Thread for grabbing keyboard input
+* Thread for displaying text on the screen
+    * This text comes from either typing a message, or receiving one from the other person
+* Thread for sending UDP packets
+* Thread for receiving UDP packets
+
+There were some edge cases:
+
+* If you decide to send the whole Bee Movie script as a string, it's way too long to fit in a single UDP packet, so
+    * chop it into several partitions
+    * add those partitions into a [free list](https://en.wikipedia.org/wiki/Free_list)
+    * send each paritition as an individual packet until the free list is empty
+* When two users try to send at once, or receive at once, we need a mutex and signaler/waiter to handle it.  This is a classic critical section problem.
+
+I learned about dynamic memory allocation with a free list which proved to be extremely handy.  Unlike `malloc`, I had tight control over where in memory my bytes were stored.
+
+I also implemented a UDP networking solution in C that ran on two threads.  The whole thing worked with one socket - all you had to do was run the compiled binary on two different computers.
+
+![S-Talk Demo](https://i.imgur.com/eESPHGH.gif)
+
+---
+
+Stuff used:
+
+- C
+- Multithreading
+- UDP networking
+- Dynamic memory allocation
+- Critical sections, mutexes and semaphores
