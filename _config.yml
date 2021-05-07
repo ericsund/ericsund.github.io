@@ -16,7 +16,7 @@ resume: true
 resume-external: local
 resume-url: assets/Resume.pdf
 
-url: https://ericsund.github.io/
+url: https://ericsund.github.io
 
 permalink: /:title/
 
