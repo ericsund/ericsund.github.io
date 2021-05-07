@@ -1,32 +1,31 @@
 #about {
   width: 95%;
   margin: 0 auto;
-  max-width: 960px;
+  max-width: 1080px;
   @media only screen and (min-width: $cut) {
     width: 85%;
   }
 }
 
 .tech {
-  margin: 40px;
+  margin: 80px;
 }
 
 .user {
   text-align: center;
   font-size: 60px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
   img {
-    max-width: 30%;
+    max-width: 100%;
     height: auto;
     border-radius: 5px;
   }
   p {
     font-size: 16px;
     text-align: left;
-    margin-left: 35%;
   }
   @media only screen and (min-width: $cut) {
     flex-wrap: nowrap;

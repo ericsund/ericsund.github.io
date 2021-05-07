@@ -29,28 +29,28 @@ google-analytics:
 exclude: ['package.json', 'src' , 'node_modules']
 
 about1: >
-  C/C++ <br>
-  Java <br>
-  Python <br>
-  Node, Typescript, React <br>
-  PHP <br>
-  Linux/UNIX kernel development <br>
-  Docker <br>
-  Ansible <br>
-  Jenkins <br>
-  AWS (Cloud Practitioner Certified!) <br>
-  Rails <br>
+  C/C++ <br><br>
+  Java <br><br>
+  Python <br><br>
+  Node, Typescript, React <br><br>
+  PHP <br><br>
+  Linux/UNIX kernel development <br><br>
+  Docker <br><br>
+  Ansible <br><br>
+  Jenkins <br><br>
+  AWS (Cloud Practitioner Certified!) <br><br>
+  Rails <br><br>
   SQL <br>
 
 about2: >
   <b>Akamai</b> - DevOps Engineer Intern<br>
-  May 2021 - August 2021<br>
+  May 2021 - August 2021<br><br>
   <b>Hootsuite</b> - Production Operations (DevOps) Engineer Intern<br>
-  January 2019 - April 2019<br>
+  January 2019 - April 2019<br><br>
   <b>Beanworks Solutions</b> - Software Developer Intern<br>
-  May 2018 - August 2018<br>
+  May 2018 - August 2018<br><br>
   <b>Thinkific</b> - Full Stack Developer/QA/Support Intern<br>
-  April 2017 - March 2018<br>
+  April 2017 - March 2018<br><br>
   <b>Teradici</b> - QA Developer Intern<br>
   May 2016 - August 2016<br>
   
