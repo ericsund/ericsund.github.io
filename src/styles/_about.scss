@@ -1,0 +1,40 @@
+#about {
+  width: 95%;
+  margin: 0 auto;
+  max-width: 960px;
+  @media only screen and (min-width: $cut) {
+    width: 85%;
+  }
+}
+
+.tech {
+  margin: 40px;
+}
+
+.user {
+  text-align: center;
+  font-size: 60px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  img {
+    max-width: 30%;
+    height: auto;
+    border-radius: 5px;
+  }
+  p {
+    font-size: 16px;
+    text-align: left;
+    margin-left: 35%;
+  }
+  @media only screen and (min-width: $cut) {
+    flex-wrap: nowrap;
+    font-size: 75px;
+  }
+}
+
+.user-details {
+  text-align: center;
+  margin: 5px auto;
+}

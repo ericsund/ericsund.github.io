@@ -1,136 +1,151 @@
-# main text of home
-name: Eric Sund
-bio: Computer Science & Mathematics Student at Simon Fraser University - Grad Dec 2021
+# Site settings
+title: Eric Sund
+description: Eric's snazzy corner of the web
+baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "localhost:3000"
 
-# twitter summary info
-description: Eric's fantastic spot on the web
+# User settings
+username: Eric Sund
+user_description: |
+  Hello! 👋 I’m Eric Sund - a Computer Science and Mathematics major set to graduate 🎓 this year (2021).
+  I enjoy app development 💻 and lower-level embedded systems, operating systems, etc. I’ve also got a
+  knack for numerical methods 🔢 and scientific computing 🧪. In my time at SFU, I tutored first-year
+  CS students 👨‍🏫, and gained experience in several internships. I also helped run dozens of tech events
+  including <a href="https://hackerx.org/">HackerX</a>.  Apart from math and programming, I’m into camping ⛺,
+  hiking 🎒, and listening to indie rock 🎵!  This summer I’m working at Akamai as DevOps Engineer
+  Intern. Shoot me an <a href="mailto:epsund@gmail.com">email</a> if you’d like to chat!
 
-# if it's an external image, update below for true
-# better with square images
-external-image: false
-picture: assets/images/profile.jpg
-
-# If you want to include your resume, set to true
-# and specify source (external or local).
-resume: true
-resume-external: local
-resume-url: assets/Resume.pdf
-
-url: https://ericsund.github.io
-
-permalink: /:title/
-
-# To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
-
-# To enable piwik tracking, supply your url & site ID below
-# analytics-piwik-url: 'piwik.my-host.com'
-# analytics-piwik-id: 1
-
-# if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
-
-# if you don't have any of social below, comment the line
-# facebook: myfacebook
-twitter: epsund
-# instagram: myinstagram
-# pinterest: mypinterest
-linkedin: epsund
-# youtube: myyoutube
-# spotify: myspotify
-github: ericsund
-# gitlab: mygitlab
-# lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-# medium: medium
-# vimeo: myvimeo
-# lanyrd: mylanyrd
+user_title: Computer Science & Mathematics Major - Grad Dec. 2021
 email: epsund@gmail.com
+twitter_username: epsund
+github_username:  ericsund
+# gplus_username:  lorem_ipsum
 
-authors:
-  johndoe:
-    name: Eric Sund
-    bio: Copmuter Science and Math Student at SFU
-    external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
+# Google-analytics
+google-analytics:
+  id: ""
 
-# do you want a larger site? change the option below
-# options: [normal, large] | default: normal
-# normal = 560px / large = 810px
-width: normal
+exclude: ['package.json', 'src' , 'node_modules']
 
-# if you do/don't need pagination, toggle 'enabled' between true/false below
-pagination:
-  enabled: false
-  sort_reverse: true # display recent posts first
-  title: ":title" # Changing this will mess up the header display logic
-  per_page: 5
-  permalink: "/:num/" # pagination link that will be appended
+about1: >
+  C/C++ <br>
+  Java <br>
+  Python <br>
+  Node, Typescript, React <br>
+  PHP <br>
+  Linux/UNIX kernel development <br>
+  Docker <br>
+  Ansible <br>
+  Jenkins <br>
+  AWS (Cloud Practitioner Certified!) <br>
+  Rails <br>
+  SQL <br>
 
-# if you don't need projects, comment the *projects* configs below
-projects: true
+about2: >
+  <b>Akamai</b> - DevOps Engineer Intern<br>
+  May 2021 - August 2021<br>
+  <b>Hootsuite</b> - Production Operations (DevOps) Engineer Intern<br>
+  January 2019 - April 2019<br>
+  <b>Beanworks Solutions</b> - Software Developer Intern<br>
+  May 2018 - August 2018<br>
+  <b>Thinkific</b> - Full Stack Developer/QA/Support Intern<br>
+  April 2017 - March 2018<br>
+  <b>Teradici</b> - QA Developer Intern<br>
+  May 2016 - August 2016<br>
+  
+about3: >
+  Embedded Systems <b>(CMPT 433)</b> <br>
+  Dynamical Systems <b> (MATH 467) </b> <br>
+  Computer Vision <b> (CMPT 412) </b> <br>
+  Quantum Computing <b> (CMPT 409) </b> <br>
+  Numerical Analysis II <b> (MACM 416) </b> <br>
+  Numerical Analysis I <b> (MACM 316) </b> <br>
+  Data Structures & Algorithms <b> (CMPT 307) </b> <br>
+  Networking <b> (CMPT 371) </b> <br>
+  Database Systems <b> (CMPT 354) </b> <br>
+  Operating Systems <b> (CMPT 300) </b> <br>
+  Elementary Number Theory <b> (MATH 342) </b> <br>
+  Ring and Field Theory <b> (MATH 340) </b> <br>
+  Applied Group Theory and Permutations <b> (MATH 304) </b> <br>
+  Ordinary Differential Equations <b> (MATH 310) </b> <br>
+  Linear Programming <b> (MATH 308) </b> <br>
+  Computer Architecture <b> (CMPT 295) </b> <br>
+  Data Structures & Programming <b> (CMPT 225) </b> <br>
+  Object Oriented Programming with Java <b> (CMPT 213) </b> <br>
+  Real Analysis I <b> (MATH 242) </b> <br>
+  Applied Linear Algebra <b> (MATH 232) </b> <br>
+  Calculus III <b> (MATH 251) </b> <br>
+  Probability & Statistics <b> (STAT 270) </b> <br>
+  Computational Linear Algebra (MATLAB) <b> (MACM 204) </b> <br>
+  Computational Calculus (MAPLE) <b> (MACM 203) </b> <br>
+  Discrete Mathematics II <b> (MACM 201) </b> <br>
+  Calculus II <b> (MATH 152) </b> <br>
+  Calculus I <b> (MATH 150) </b> <br>
+  Discrete Mathematics I <b> (MACM 101) </b> <br>
+  C/C++ Computing Laboratory <b> (CMPT 127) </b> <br>
+  Intro to Computer Science II <b> (CMPT 125) </b> <br>
+  Intro to Computer Science I <b> (CMPT 120) </b> <br>
 
-# if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
+proj1_top: |
+  <br><br>Beatboxer lets a user playback some pre-made beats, or create their own!
+  Beatboxer runs on physical hardware and connects your local network allowing
+  for control by hand or by web.  Here’s what the whole system looks like:
+proj1_bottom: |
+    This project touched on a huge range of abstractions - from reading individual
+    bytes in registers to showing content on the frontend. <br><br>
+    
+    Getting the MMA8452Q accelerometer working was a little challenging. The first 8-bit register you
+    read in C is always 0xFF. To read something you care about (like x-y-z coordinates),
+    you need to read multiple registers in one go with an 8-bit offset, to get an array
+    of bytes. Each coordinate is stored as a 16-bit value across two registers - the LSB
+    and MSB bits. By default, reading multiple bytes will skip the LSB, so you also need
+    to write to other registers so this is turned off!  <br><br>
+    
+    The audio was done using the ALSA C API. Pushing the joystick will queue new PCM samples for
+    playback. A thread will load the samples into memory, and another thread will play them back.
+    A third (heartbeat) thread will send/receive the current beat over UDP to the node web server
+    so it can be displayed and controlled from the frontend!
 
-# do you want to show the "read time" of the posts?
-read-time: true
+proj2: |
+  <br><br>“Morse Driver” is a misc driver that runs on a custom Linux kernel.  In Linux, hardware
+  interaction is exposed via device driver files. Writing a string to /dev/morse-code will
+  flash an onboard LED with the morse code equivalent. Reading will spit out the dot/dash
+  equivalent of your strings in text. This is all stored in the kernel’s FIFO queue.
 
-# do you want to show the "tags" inside the posts?
-show-tags: true
+proj3: |
+  <br><br>S-talk lets two people instant message each other over the local area network. The beauty of this is
+  the same single binary can be run by two different people on their own computers.  I had a bit of
+  multithreading going on:
 
-# related posts inside a post?
-related: true
+  <ul>
+  <li>Thread for grabbing keyboard input</li>
+  <li>Thread for displaying text on the screen</li>
+  <ol type="a">
+    <li>This text comes from either typing a message, or receiving one from the other person</li>
+  </ol>
+  <li>Thread for sending UDP packets</li>
+  <li>Thread for receiving UDP packets</li>
+  </ul>
+  
+  There were some edge cases:
+  <ul>
+  <li>If you decide to send the whole Bee Movie script as a string, it’s way too long to fit in a single
+  UDP packet, so
+  <ol type="a">
+  <li>chop it into several partitions</li>
+  <li>add those partitions into a free list</li>
+  <li>send each paritition as an individual packet until the free list is empty</li>
+  </ol>
+  <li>When two users try to send at once, or receive at once, we need a mutex and signaler/waiter to handle
+  it. This is a classic critical section problem.</li>
+  </ul>
 
-# Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+  I learned about dynamic memory allocation with a <a href="https://en.wikipedia.org/wiki/Free_list">free list</a>
+  which proved to be extremely handy. Unlike malloc, I had tight control over where in memory my bytes were stored.
+  I also implemented a UDP networking solution in C that ran on two threads. The whole thing worked with one
+  socket - all you had to do was run the compiled binary on two different computers.
 
-# show author block at the end of a post ?
-show-author: true
-
-# do you want some animations?
-animation: true
-
-# add default values to specific pages or layouts
-defaults:
-  - scope:
-      path: "" # an empty string here means all files in the project
-      layout: "post"
-    values:
-      # setting all post to not hidden by default,
-      # can be overridden in the front matter for a specific post
-      hidden: false
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-admin
-  - jekyll-paginate-v2
-
-jekyll-mentions:
-  base_url: https://github.com
-
-compress_html:
-  ignore:
-    envs:
-      - development
-      - stage
-
-exclude:
-  [
-    "travis.sh",
-    "README.md",
-    "Gemfile",
-    "Gemfile.lock",
-    "FAQ.md",
-    "node_modules",
-    "vendor",
-  ]
+proj4: |
+  I worked on a Dynamical Systems project which used chaos theory for data encryption and secure communication.
+  Here's a <a href="https://github.com/ericsund/467-chaos-theory/blob/main/MATH_467_Project.pdf">link to the paper</a>!
