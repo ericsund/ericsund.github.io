@@ -16,8 +16,7 @@ resume: true
 resume-external: local
 resume-url: assets/Resume.pdf
 
-url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
+url: https://ericsund.github.io/
 
 permalink: /:title/
 
