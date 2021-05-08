@@ -55,37 +55,39 @@ about2: >
   May 2016 - August 2016<br>
   
 about3: >
-  Embedded Systems <b>(CMPT 433)</b> <br>
-  Dynamical Systems <b> (MATH 467) </b> <br>
-  Computer Vision <b> (CMPT 412) </b> <br>
-  Quantum Computing <b> (CMPT 409) </b> <br>
-  Numerical Analysis II <b> (MACM 416) </b> <br>
-  Numerical Analysis I <b> (MACM 316) </b> <br>
-  Data Structures & Algorithms <b> (CMPT 307) </b> <br>
-  Networking <b> (CMPT 371) </b> <br>
-  Database Systems <b> (CMPT 354) </b> <br>
-  Operating Systems <b> (CMPT 300) </b> <br>
-  Elementary Number Theory <b> (MATH 342) </b> <br>
-  Ring and Field Theory <b> (MATH 340) </b> <br>
-  Applied Group Theory and Permutations <b> (MATH 304) </b> <br>
-  Ordinary Differential Equations <b> (MATH 310) </b> <br>
-  Linear Programming <b> (MATH 308) </b> <br>
-  Computer Architecture <b> (CMPT 295) </b> <br>
-  Data Structures & Programming <b> (CMPT 225) </b> <br>
-  Object Oriented Programming with Java <b> (CMPT 213) </b> <br>
-  Real Analysis I <b> (MATH 242) </b> <br>
-  Applied Linear Algebra <b> (MATH 232) </b> <br>
-  Calculus III <b> (MATH 251) </b> <br>
-  Probability & Statistics <b> (STAT 270) </b> <br>
-  Computational Linear Algebra (MATLAB) <b> (MACM 204) </b> <br>
-  Computational Calculus (MAPLE) <b> (MACM 203) </b> <br>
-  Discrete Mathematics II <b> (MACM 201) </b> <br>
-  Calculus II <b> (MATH 152) </b> <br>
-  Calculus I <b> (MATH 150) </b> <br>
-  Discrete Mathematics I <b> (MACM 101) </b> <br>
-  C/C++ Computing Laboratory <b> (CMPT 127) </b> <br>
-  Intro to Computer Science II <b> (CMPT 125) </b> <br>
-  Intro to Computer Science I <b> (CMPT 120) </b> <br>
+  <ul>
+  <li>Embedded Systems <br></li>
+  <li>Dynamical Systems <br></li>
+  <li>Computer Vision <br></li>
+  <li>Quantum Computing <br></li>
+  <li>Numerical Analysis II <br></li>
+  <li>Numerical Analysis I <br></li>
+  <li>Data Structures & Algorithms <br></li>
+  <li>Networking <br></li>
+  <li>Database Systems <br></li>
+  <li>Operating Systems <br></li>
+  <li>Elementary Number Theory <br></li>
+  <li>Ring and Field Theory <br></li>
+  <li>Applied Group Theory and Permutations <br></li>
+  <li>Ordinary Differential Equations <br></li>
+  <li>Linear Programming <br></li>
+  <li>Computer Architecture <br></li>
+  <li>Data Structures & Programming <br></li>
+  <li>Object Oriented Programming with Java <br></li>
+  <li>Real Analysis I <br></li>
+  <li>Applied Linear Algebra <br></li>
+  <li>Calculus III <br></li>
+  <li>Probability & Statistics <br></li>
+  <li>Computational Linear Algebra (MATLAB) <br></li>
+  <li>Computational Calculus (MAPLE) <br></li>
+  <li>Discrete Mathematics II <br></li>
+  <li>Calculus II <br></li>
+  <li>Calculus I <br></li>
+  <li>Discrete Mathematics I <br></li>
+  <li>C/C++ Computing Laboratory <br></li>
+  <li>Intro to Computer Science II <br></li>
+  <li>Intro to Computer Science I <br></li>
+  </ul>
 
 proj1_top: |
   <br><br>Beatboxer lets a user playback some pre-made beats, or create their own!
