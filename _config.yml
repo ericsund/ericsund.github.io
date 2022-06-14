@@ -8,15 +8,17 @@ url: "localhost:3000"
 # User settings
 username: Eric Sund
 user_description: |
-  Hello! 👋 I’m Eric Sund - a Computer Science and Mathematics major set to graduate 🎓 this year (2021).
-  I enjoy app development 💻 and lower-level embedded systems, operating systems, etc. I’ve also got a
-  knack for numerical methods 🔢 and scientific computing 🧪. In my time at SFU, I tutored first-year
+  Hello! 👋 I’m Eric Sund - a software engineer who recently graduated 🎓 with a Computer Science and Mathematics joint major.
+  I work as a <a href=https://www.linkedin.com/posts/akamai-technologies_akamaius-weareakamai-akamaiaroundtheworld-activity-6922650261945466880-HQzX>software engineer at Akamai</a> in Bellevue, WA on Ghost 👻, which is a web server that handles about 1/4 of
+  the Internet's traffic these days.  Most of my work involves distributed systems and networking.  I also enjoy app development
+  💻 and lower-level embedded systems, operating systems, etc. I’ve also got a knack for numerical methods 🔢
+  and scientific computing 🧪. In my time at Simon Fraser University, I tutored first-year
   CS students 👨‍🏫, and gained experience in several internships. I also helped run dozens of tech events
   including <a href="https://hackerx.org/">HackerX</a>.  Apart from math and programming, I’m into camping ⛺,
-  hiking 🎒, and listening to indie rock 🎵!  This summer I’m working at Akamai as DevOps Engineer
-  Intern. Shoot me an <a href="mailto:epsund@gmail.com">email</a> if you’d like to chat!
+  hiking 🎒, and listening to indie rock 🎵!
+  Shoot me an <a href="mailto:epsund@gmail.com">email</a> if you’d like to chat!
 
-user_title: Computer Science & Mathematics Major - Grad Dec. 2021
+user_title: New Grad Software Engineer
 email: epsund@gmail.com
 twitter_username: epsund
 github_username:  ericsund
@@ -43,6 +45,10 @@ about1: >
   SQL <br>
 
 about2: >
+  <b>Akamai</b> - Software Engineer<br>
+  Feb 2022 - Current<br><br>
+  <b>Akamai</b> - Software Engineer Intern<br>
+  Sept 2021 - Dec 2021<br><br>
   <b>Akamai</b> - DevOps Engineer Intern<br>
   May 2021 - August 2021<br><br>
   <b>Hootsuite</b> - Production Operations (DevOps) Engineer Intern<br>
