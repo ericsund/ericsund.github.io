@@ -8,20 +8,23 @@ url: "localhost:3000"
 # User settings
 username: Eric Sund
 user_description: |
-  Hello! 👋 I’m Eric Sund - a software engineer who recently graduated 🎓 with a Computer Science and Mathematics joint major.
-  I work as a <a href=https://www.linkedin.com/posts/akamai-technologies_akamaius-weareakamai-akamaiaroundtheworld-activity-6922650261945466880-HQzX>software engineer at Akamai</a> in Bellevue, WA on Ghost 👻, which is a web server that handles about 1/4 of
-  the Internet's traffic these days.  Most of my work involves distributed systems and networking.  I also enjoy app development
-  💻 and lower-level embedded systems, operating systems, etc. I’ve also got a knack for numerical methods 🔢
-  and scientific computing 🧪. In my time at Simon Fraser University, I tutored first-year
-  CS students 👨‍🏫, and gained experience in several internships. I also helped run dozens of tech events
-  including <a href="https://hackerx.org/">HackerX</a>.  Apart from math and programming, I’m into camping ⛺,
-  hiking 🎒, and listening to indie rock 🎵!
+  Hello! 👋 I’m Eric Sund - a software engineer in Seattle, WA. 🗺️ I earned a <b>Bachelor of Science in Computer Science and Mathematics</b> at
+  <a href=sfu.ca>Simon Fraser University</a> in 2022. 🎓 I have 1 year of full-time software engineering experience, and 2 years of internship experience.<br><br>
+  I presently work as a <a href=https://www.linkedin.com/posts/akamai-technologies_akamaius-weareakamai-akamaiaroundtheworld-activity-6922650261945466880-HQzX>software
+  engineer at Akamai</a> on <a href=https://www.linode.com/products/kubernetes>Linode Kubernetes</a>.  Prior to that, I worked on
+  <a href=https://www.linode.com/products/databases>Linode Managed Databases</a> and Ghost 👻, a web server for the Akamai CDN that handles ~1/4 of the world's Internet
+  traffic. <br><br>
+  
+  I enjoy distributed systems and networking, but also like app development, 💻 low-level embedded systems and operating systems.  I also have a knack for
+  numerical methods 🔢 and scientific computing 🧪.  Check out some of my projets below!<br><br>
+  
+  Apart from math and programming, I’m into backpacking ⛺, travelling 🎒, videography 📹, and listening to indie rock 🎵!
   Shoot me an <a href="mailto:epsund@gmail.com">email</a> if you’d like to chat!
 
-user_title: New Grad Software Engineer
+user_title: Software Engineer II, 1 Year Experience
 email: epsund@gmail.com
-twitter_username: epsund
-github_username:  ericsund
+# twitter_username: epsund
+# github_username:  ericsund
 # gplus_username:  lorem_ipsum
 
 # Google-analytics
@@ -32,21 +35,23 @@ exclude: ['package.json', 'src' , 'node_modules']
 
 about1: >
   C/C++ <br><br>
+  C# <br><br>
   Java <br><br>
   Python <br><br>
+  Golang <br><br>
   Node, Typescript, React <br><br>
   PHP <br><br>
   Linux/UNIX kernel development <br><br>
-  Docker <br><br>
-  Ansible <br><br>
-  Jenkins <br><br>
-  AWS (Cloud Practitioner Certified!) <br><br>
-  Rails <br><br>
+  Kubernetes, Docker, Ansible, Terraform, Crossplane <br><br>
+  AWS (Cloud Practitioner Certified!), GCP, Linode <br><br>
+  Ruby on Rails <br><br>
   SQL <br>
 
 about2: >
-  <b>Akamai</b> - Software Engineer<br>
-  Feb 2022 - Current<br><br>
+  <b>Akamai</b> - Software Engineer II<br>
+  Oct 2022 - Current<br><br>
+  <b>Akamai</b> - Software Engineer I<br>
+  Feb 2022 - Oct 2022<br><br>
   <b>Akamai</b> - Software Engineer Intern<br>
   Sept 2021 - Dec 2021<br><br>
   <b>Akamai</b> - DevOps Engineer Intern<br>
