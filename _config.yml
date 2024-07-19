@@ -9,7 +9,7 @@ url: "localhost:3000"
 username: Eric Sund
 user_description: |
   Hello! 👋 I’m Eric Sund - a software engineer in Seattle, WA. 🗺️ I earned a <b>Bachelor of Science in Computer Science and Mathematics</b> at
-  <a href=sfu.ca>Simon Fraser University</a> while also completing 5 technical internships. 🎓<br><br>
+  <a href=https://www.sfu.ca>Simon Fraser University</a> while also completing 5 technical internships. 🎓<br><br>
   I presently work as a <a href=https://www.linkedin.com/posts/akamai-technologies_akamaius-weareakamai-akamaiaroundtheworld-activity-6922650261945466880-HQzX>software
   engineer at Akamai</a> on internal infrastructure called the Kubernetes Product Platform to host Linode's cloud services.  Prior to that, I worked on
   <a href=https://www.linode.com/products/databases>Linode Managed Databases</a> and Ghost 👻, a web server for the Akamai CDN that handles ~1/4 of the world's Internet
