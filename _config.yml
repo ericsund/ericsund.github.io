@@ -9,19 +9,19 @@ url: "localhost:3000"
 username: Eric Sund
 user_description: |
   Hello! 👋 I’m Eric Sund - a software engineer in Seattle, WA. 🗺️ I earned a <b>Bachelor of Science in Computer Science and Mathematics</b> at
-  <a href=sfu.ca>Simon Fraser University</a> while completing 5 technical internships. 🎓<br><br>
+  <a href=sfu.ca>Simon Fraser University</a> while also completing 5 technical internships. 🎓<br><br>
   I presently work as a <a href=https://www.linkedin.com/posts/akamai-technologies_akamaius-weareakamai-akamaiaroundtheworld-activity-6922650261945466880-HQzX>software
-  engineer at Akamai</a> on <a href=https://www.linode.com/products/kubernetes>Linode Kubernetes</a>.  Prior to that, I worked on
+  engineer at Akamai</a> on internal infrastructure called the Kubernetes Product Platform to host Linode's cloud services.  Prior to that, I worked on
   <a href=https://www.linode.com/products/databases>Linode Managed Databases</a> and Ghost 👻, a web server for the Akamai CDN that handles ~1/4 of the world's Internet
   traffic. <br><br>
   
-  I enjoy distributed systems and networking, but also like app development, 💻 low-level embedded systems and operating systems.  I also have a knack for
+  I enjoy distributed systems, app development, 💻 low-level embedded systems and operating systems.  I also have a knack for
   numerical methods 🔢 and scientific computing 🧪.  Check out some of my projets below!<br><br>
   
-  Apart from math and programming, I’m into backpacking ⛺, travelling 🎒, videography 📹, and listening to indie rock 🎵!
-  Shoot me an <a href="mailto:epsund@gmail.com">email</a> if you’d like to chat!
+  Apart from math and programming, I’m into backpacking ⛺, travelling 🎒, videography 📹, and indie rock 🎵!
+  Shoot me an <a href="mailto:epsund@gmail.com">email</a> if you’d like to meet up!
 
-user_title: Software Engineer II
+user_title: Software Engineer
 email: epsund@gmail.com
 # twitter_username: epsund
 # github_username:  ericsund
@@ -35,8 +35,8 @@ exclude: ['package.json', 'src' , 'node_modules']
 
 about1: >
   C/C++ <br><br>
-  C# <br><br>
   Java <br><br>
+  C# <br><br>
   Python <br><br>
   Golang <br><br>
   Node, Typescript, React <br><br>
